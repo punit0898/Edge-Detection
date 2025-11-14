@@ -20,3 +20,9 @@ An Android application that captures camera frames, processes them using OpenCV 
 - Real-time data simulation
 
 ## Architecture
+
+
+##Photos
+<img width="1228" height="888" alt="edge-detection" src="https://github.com/user-attachments/assets/fbd4c1c3-087a-4e2a-85bc-3f15c0b15a5e" />
+
+
